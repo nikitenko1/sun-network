@@ -1,0 +1,11 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "import/no-unresolved": "error",
+    "react/no-unescaped-entities": 0,
+    "no-undef": "error",
+    "no-unused-vars": "error",
+    "no-use-before-define": "error",
+    "@next/next/no-img-element": "off"
+  }
+}
